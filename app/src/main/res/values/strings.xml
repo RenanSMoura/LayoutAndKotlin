@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LayoutAndKotlin</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor lectus felis. Mauris faucibus dui ligula, sed sodales velit suscipit quis. Nunc faucibus pretium pharetra. Donec pulvinar mi at egestas faucibus</string>
+</resources>
